@@ -3,10 +3,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="images/logo.png" alt="Logo" width="120" height="40">
+  <img src="images/Logo.png" alt="Logo" width="120" height="40">
 </a>
 
-<h3 align="center">Ascii Renderer</h3>
+<h3 align="center">Ascii Player</h3>
 
   <p align="center">
     Simple tool used to render videos and images in the terminal, written in C++.
